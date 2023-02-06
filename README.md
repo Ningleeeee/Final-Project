@@ -2,7 +2,6 @@
 <img src="https://www.linkpicture.com/q/Screenshot_2023-02-06_at_14.44.38.png" alt="main page" width="100%" />
 
 **<a href="https://drive.google.com/file/d/1ppJVfAQiSIepCI5HeHiByUbucBVfHgaQ/view?usp=sharing" target="blank">Presentation</a>** | **<a href="#" target="blank">DEMO</a>**
-<hr>
 
 ## About Savour
 <p>In Luxembourg alone, an average of 118 kg of food waste per person ends up in the bin each year.
